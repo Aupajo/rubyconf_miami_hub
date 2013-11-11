@@ -21,7 +21,7 @@ Splitting applications is challenging for numerous reasons. One of the biggest c
 
 We’ll dive into the mechanics of Promiscuous and how we used it to split our monolithic application into eight small, single purpose applications. We will also show our findings in scalability, deployment, migration, unit/integration testing, and general architecture best practices laced with real world examples.
 
-References 
-[1] Promiscuous: http://github.com/crowdtap/promiscuous 
-[2] MoSQL: https://github.com/stripe/mosql 
-[3] Databus: https://github.com/linkedin/databus
+References  
+[1] Promiscuous: <http://github.com/crowdtap/promiscuous>  
+[2] MoSQL: <https://github.com/stripe/mosql>  
+[3] Databus: <https://github.com/linkedin/databus>
